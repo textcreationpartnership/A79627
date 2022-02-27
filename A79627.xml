@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be inquired of in the diocesse of S. Asaph. In the fift visitation of the reverend father in God, Iohn, Lord Bishop of S. Asaph. 1642</title>
+            <author>Church of England. Diocese of Saint Asaph. Bishop (1660-1666 : Griffith)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79627</idno>
+            <idno type="STC">Wing C4080A</idno>
+            <idno type="STC">ESTC R231297</idno>
+            <idno type="EEBO-CITATION">99897272</idno>
+            <idno type="PROQUEST">99897272</idno>
+            <idno type="VID">135206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2475:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be inquired of in the diocesse of S. Asaph. In the fift visitation of the reverend father in God, Iohn, Lord Bishop of S. Asaph. 1642</title>
+                  <author>Church of England. Diocese of Saint Asaph. Bishop (1660-1666 : Griffith)</author>
+                  <author>Griffith, George, 1601-1666.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nath: Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Pastoral letters and charges --  Early works to 1800.</term>
+               <term>Visitations, Ecclesiastical --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135206:1"/>
+            <p>ARTICLES To be inquired of in the Dioceſſe of S. <hi>ASAPH.</hi> IN THE FIFT VISITATION Of the Reverend Father in God, IOHN, Lord Biſhop of S. <hi>Aſaph.</hi> 1642.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nath: Butter.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:135206:2"/>
+            <pb facs="tcp:135206:2"/>
+            <head>ARTICLES To be enquired of in the <hi>Dioceſs</hi> OF Saint <hi>ASAPH.</hi>
+            </head>
+            <list>
+               <head>ARTICLES concerning publique PRAYER, and adminiſtration of the SACRAMENTS.</head>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">F</seg>IRST,</hi>
+                  <note place="margin">Depraving of the Book of Common Prayer and ceremonies.</note> Whether hath any of your Pa<g ref="char:EOLhyphen"/>riſh ſpoken or declared any thing in the derogation or depraving of the forme of Gods worſhip in the Church of <hi>England,</hi> and Adminiſtration of the Sacraments, Rites and Ceremonies ſet forth and preſcribed in the Booke of Common Prayer?</item>
+               <item>
+                  <hi>2. Item,</hi> Whether hath any interrupted, hindred,<note place="margin">Diſturbing the Miniſter in the time of prayer.</note> let, or diſturbed the Miniſter to reade divine Ser<g ref="char:EOLhyphen"/>vice, and to adminiſter the Sacraments in ſuch man<g ref="char:EOLhyphen"/>ner and form as is mentioned in the ſaid book: or in<g ref="char:EOLhyphen"/>terrupted him in his preaching?</item>
+               <item>
+                  <pb facs="tcp:135206:3"/>
+                  <hi>3.</hi>
+                  <note place="margin">Children refu<g ref="char:EOLhyphen"/>ſed to be Bap<g ref="char:EOLhyphen"/>tized, or dying without Bap<g ref="char:EOLhyphen"/>tiſme.</note> 
+                  <hi>Item,</hi> Whether is the Sacrament of Baptiſme refuſed to be adminiſtred to any children borne in or out of Wedlock, their birth being made knowne to the Miniſter of the Pariſh, and offered unto him to be baptized?</item>
+               <item>
+                  <hi>4.</hi>
+                  <note place="margin">Private Baptiſ<g ref="char:EOLhyphen"/>me.</note> 
+                  <hi>Item,</hi> Whether have there béene any children baptized in private houſes by any Lay-perſon, or Midwife, or Popiſh Prieſt, or by any other Mini<g ref="char:EOLhyphen"/>ſter, but upon urgent occaſion, when the child was in danger of death?</item>
+               <item>
+                  <hi>5.</hi>
+                  <note place="margin">Baptizing of Papiſts chil<g ref="char:EOLhyphen"/>dren.</note> 
+                  <hi>Item,</hi> Whether have the children which have béene borne to any popiſh Recuſants, or begotten by them in your Pariſh, béene publikely baptized in your pariſh Church by your Parſon, Vicar or Cu<g ref="char:EOLhyphen"/>rate, or by whom were they baptized, or where, to your knowledge?</item>
+               <item>
+                  <hi>6.</hi>
+                  <note place="margin">Receiving of the Lords Sup<g ref="char:EOLhyphen"/>per thrice a yeere.</note> 
+                  <hi>Item,</hi> Whether hath the bleſſed Sacrament of the Lords Supper béen duly and reverently adminiſtred every moneth, or thrice every yeare at leaſt, whereof once at Eaſter, within your Pariſh Church, to every pariſhoner being of ſixtéene yéeres of age or upwards?</item>
+            </list>
+            <list>
+               <head>Articles concerning the Church, the ornaments thereof and the Churches poſſeſſions.</head>
+               <item>
+                  <hi>FIrſt,</hi> Have you the Bible in the largeſt volume, the Common prayer booke and the Bookes of Homi<g ref="char:EOLhyphen"/>lies in the Welſh tongue? Have you a Regiſter book in Parchment, and a Table of the degrees prohibited in marriage?</item>
+               <item>
+                  <hi>2. Item,</hi> Whether have you a Communion cup of ſilver, with a covering for it, a faire ſtanding pot of ſilver or pewter for the wine, a faire covering of ſilke or other decent ſtuffe for the Communion Table, a faire linnen cloth to be laid over it, at the adminiſtra<g ref="char:EOLhyphen"/>tion of the Communion?</item>
+               <item>
+                  <pb facs="tcp:135206:3"/>
+                  <hi>3. Item,</hi>
+                  <note place="margin">Things apper<g ref="char:EOLhyphen"/>taining to Churches.</note> Whether have you in your ſaid Church or Chappell, a convenient ſeat for your Miniſter to read divine ſervice in, together with a comely Pulpit, ſet up in a convenient place, with a decent cloth or cuſhi<g ref="char:EOLhyphen"/>on for the ſame, with all other ornaments neceſſary for the celebration of divine ſervice, &amp; adminiſtration of the Sacraments and whether have you a cheſt for almes, with three locks and keyes, &amp; another cheſt for kéeping the Books and ornaments of the Church, and the Regiſter book? Whether have you a regiſter book in parchment, for Chriſtnings, Weddings, and Bu<g ref="char:EOLhyphen"/>rials: and is the ſame kept in all points according to the Canons? And is the mothers chriſtian name therein regiſtred as well as the Fathers?</item>
+               <item>
+                  <hi>4. Item,</hi> Whether is your Church or Chappell,<note place="margin">Reparation of Churches and Parſonage houſes.</note>with the Chancel thereof, and your Parſonage or Vicarage houſes, your Pariſh Alms houſe &amp; Church in good re<g ref="char:EOLhyphen"/>parations, &amp; are they imployed to godly &amp; their right holy uſes: if any be ruinated &amp; waſted, in whom is the default? Is your Church, Chancel, &amp; Chappel decent<g ref="char:EOLhyphen"/>ly and comely kept as well within as without; &amp; be the ſeáts well maintained, the ſtéeple and bels preſerved, the windows well glazed, the floore kept paved, plaine and even, and all things in orderly and decent ſort?</item>
+               <item>
+                  <hi>5. Item,</hi>
+                  <note place="margin">Fencing and keeing the Churchyard.</note> Whether be your Church-yards well fenced and kept without abuſe: if not, whoſe default is it? hath any perſon encroached upon the ground of the Church yard: have any uſed a place conſecrated to holy uſe,<note place="margin">Profaning and annoying the Churchyard.</note>pro<g ref="char:EOLhyphen"/>phanely or wickedly: have any quarrelled or ſtricken another in Church or church-yard? or abuſed and pro<g ref="char:EOLhyphen"/>phaned them with any unlawfull games, as bowles, Tennis, foot-ball, hand-ball, dancing and ſuch like?</item>
+               <item>
+                  <hi>6. Item,</hi> Whether is your Church full,<note place="margin">Churches vacant.</note> or vacant of an Incumbent: if vacant, who receiveth the fruits thereof, and who ſerveth the Cure, and by what autho<g ref="char:EOLhyphen"/>rity: and whether is it a Parſonage, Vicarage, or Do<g ref="char:EOLhyphen"/>native, or Appropriation?</item>
+               <item>
+                  <pb facs="tcp:135206:4"/>
+                  <hi>7.</hi>
+                  <note place="margin">Concealing of Church goods.</note> 
+                  <hi>Item,</hi> What Legacies hath béen given to the uſe &amp; benefit of your Church: how have they béen be<g ref="char:EOLhyphen"/>ſtowed: who received them, and retaineth them with<g ref="char:EOLhyphen"/>out due imployment? doth any detaine or imbezel a<g ref="char:EOLhyphen"/>ny of the Church goods, or any other gifts given to charitable uſes?</item>
+               <item>
+                  <hi>8.</hi>
+                  <note place="margin">Alienation of tithes and pro<g ref="char:EOLhyphen"/>fits of the Church.</note> 
+                  <hi>Item,</hi> Whether be not the profits, tithes, and other commodities eccleſiaſticall, impiouſly and wickedly, to the diſhonour of Almight God, and pre<g ref="char:EOLhyphen"/>judice of the ſacred miniſtery, converted to the uſe and benefit of covetous Patrons, and by them recei<g ref="char:EOLhyphen"/>ved and detained, and how long they have béene ſo uſed to your knowledge?</item>
+               <item>
+                  <hi>9. Item,</hi> Whether have there béene made any bar<g ref="char:EOLhyphen"/>gaine and ſale, exchange, or other alienation of the Glebe lands, or tithes of your Parſonage or Vicarage, being preſentative; without the conſent of the Ordi<g ref="char:EOLhyphen"/>nary &amp; Patron? and if yea, ſpecifie the ſaid lands and tithes ſo ſold, exchanged, or alienated, where it lay and lieth, &amp; how it was and is abutted, together with the value of the ſame, and who made the ſame ſale, ex<g ref="char:EOLhyphen"/>change, or alienation, and to whom was it made?</item>
+               <item>
+                  <hi>10.</hi>
+                  <note place="margin">A Terrier of Glebe Lands and other poſ<g ref="char:EOLhyphen"/>ſeſſions of the Church.</note> 
+                  <hi>Item,</hi> Whether have you the Terrier of all the Glebe Lands, Medowes, Gardens, Orchards, Houſes, Stocks, Implements, Tenements, &amp; portion of tithes, (whether within your Pariſh or without) belonging unto your Parſonage, or Vicarage, taken by the view of honeſt men in your ſaid Pariſh? &amp; whether the ſaid Terrier be laid up in the Biſhops Regeſtry, and in whoſe hands are any of them now? and if you have no Terrier already made in parchment, you the Church-wardens and Sidemen, together with your Parſon or Vicar, or in his abſence, you are to make diligent in<g ref="char:EOLhyphen"/>quiry and preſentment of the premiſes, and make, ſub<g ref="char:EOLhyphen"/>ſcribe, and ſigne the ſaid terrier, as aforeſaid.</item>
+            </list>
+            <list>
+               <pb facs="tcp:135206:4"/>
+               <head>Articles concerning Miniſters and Preachers of Gods holy Word.</head>
+               <item>FIrſt, Whether doth your Miniſter diſtinctly,<note place="margin">Obſervation of the form and time of Com<g ref="char:EOLhyphen"/>mon Prayer &amp; Sacraments.</note> reve<g ref="char:EOLhyphen"/>rently ſay Divine Service upon Sundaies &amp; Ho<g ref="char:EOLhyphen"/>lydayes, and other dayes appointed to be obſerved by the book of Common Prayer at fit and uſuall times? And doth your Miniſter duly obſerve the orders, rites and ceremonies preſcribed in the ſaid book of common Prayer, as well in reading publique Prayers, and the Letany, as alſo in adminiſtring the Sacraments, ſo<g ref="char:EOLhyphen"/>lemnization of Matrimony, viſitation of the ſicke, burying the dead, churching of women, and all other like rites and offices of the Church, in ſuch manner and forme as in the ſaid Book of Common Prayer is enjoyned?</item>
+               <item>
+                  <hi>2. Item,</hi> Doth your Miniſter endeavour and la<g ref="char:EOLhyphen"/>bour diligently to reclaime the Popiſh Recuſants in his pariſh from their errors, (if there be any ſuch a<g ref="char:EOLhyphen"/>biding in your pariſh) Or whether is your Parſon, Vicar or Curate over-converſant with, or a favourer of Recuſants, whereby he is ſuſpected not to be ſincere in Religion?</item>
+               <item>
+                  <hi>3. Item,</hi> Doth your Miniſter, Curate, or Lecturer in his or their Sermons deliver ſuch doctrine as tends to obedience and the edifying of their Auditory in Faith, Religion, and good life, without intermedling with particular matters of State, not fit to be han<g ref="char:EOLhyphen"/>dled in the Pulpit?</item>
+               <item>
+                  <hi>4. Item,</hi>
+                  <note place="margin">Preachers without Li<g ref="char:EOLhyphen"/>cence.</note> Whether is your Miniſter a Preacher licenced or no? if no, whether doth he take upon him in his owne Cure or elſewhere, to expound any Scri<g ref="char:EOLhyphen"/>pture or matter of doctrine? And if he be licenſed, doth he preach uſually in his owne Cure, or in ſome other neighbour Church where no Preacher is? Or whether doth he or his Curate upon every Sun<g ref="char:EOLhyphen"/>day when there is no Sermon, reade a Homily, or
+<pb facs="tcp:135206:5"/>ſome part thereof according as he ought to doe?</item>
+               <item>
+                  <hi>5.</hi>
+                  <note place="margin">Preaching of falſe doctrine and new opi<g ref="char:EOLhyphen"/>nions.</note> 
+                  <hi>Item,</hi> Whether doth your Miniſter publiſh in his Sermons any doctrine, which is new and ſtrange, and diſagreeing froin the word of God, and from the Ar<g ref="char:EOLhyphen"/>ticles of Chriſtian faith and Religion, agreed on and publiſhed, <hi>Anno Dom. 1562.</hi>
+               </item>
+               <item>
+                  <hi>6. Item,</hi> Whether any victualling, tipling, or ale<g ref="char:EOLhyphen"/>ſelling, have béen uſed in your Parſon, Vicar or Cu<g ref="char:EOLhyphen"/>rat his houſe, by themſelves, or others dwelling there<g ref="char:EOLhyphen"/>in, and by whom?</item>
+               <item>
+                  <hi>7.</hi>
+                  <note place="margin">Names of ſtrange Prea<g ref="char:EOLhyphen"/>chers to be taken.</note> 
+                  <hi>Item,</hi> Whether are any ſtrange Miniſters ad<g ref="char:EOLhyphen"/>mitted to preach in your Church, who doe not before the Church-wardens ſubſcribe their names in your book for that purpoſe, the day when he preached, and the name of the Biſhop of whom he had Licenſe to preach: and is any one admitted to preach before hée ſhewed his Licence?</item>
+               <item>
+                  <hi>8.</hi>
+                  <note place="margin">Oppoſition of Preachers in their Sermons.</note> 
+                  <hi>Item,</hi> Doth any Preacher in your Pulpit par<g ref="char:EOLhyphen"/>ticularly impugne and confute any doctrine delive<g ref="char:EOLhyphen"/>red by others his fellow Preachers, before he hath acquainted the Biſhop of the Dioceſſe therewith, and received order from him what to doe in that caſe?</item>
+               <item>
+                  <hi>9.</hi>
+                  <note place="margin">Praying for His Majeſty.</note> 
+                  <hi>Item,</hi> Doth your Miniſter uſe to pray for the kings Majeſty, Clergy, Counſell, &amp;c. giving them their full titles?</item>
+               <item>
+                  <hi>10.</hi>
+                  <note place="margin">Non-reſidence of the Miniſter</note> 
+                  <hi>Item,</hi> Whether is your Miniſter Reſident upon his Benefice, or abſent; if abſent, by whom is the Cure ſerved, the fruits received? Doth your Miniſter or Curate, ſerve any more cures than one? if yea, then what other cure doth he ſerve, and how farre are they diſtant?</item>
+               <item>
+                  <hi>11. Item,</hi> Whether doth he Catechize the youth of his Pariſh, upon ſundaies and holy-dayes, before evening Prayer for halfe an hower or more, in the Catechiſme ſet forth in the Book of Common prayer? and whether doe all the Pariſhioners diligently at<g ref="char:EOLhyphen"/>tend
+<pb facs="tcp:135206:5"/>his catechizing: and who refuſe to ſend their chil<g ref="char:EOLhyphen"/>dren and ſervants to be catechized by him?</item>
+               <item>
+                  <hi>12. Item,</hi>
+                  <note place="margin">Miniſters to call for reliefe of the poore and almeſ<g ref="char:EOLhyphen"/>deeds.</note> Doth your Miniſter carefully looke to the reliefe of the poore, &amp; from time to time call upon his pariſhioners to give ſomewhat according to their abi<g ref="char:EOLhyphen"/>lity, to godly and charitable uſes, eſpecially when they make their Wills?</item>
+               <item>
+                  <hi>13. Item,</hi>
+                  <note place="margin">Symony.</note> Whether is your Miniſter ſuſpected or knowne to have obtained his Benefice or ſpirituall promotion by any Symonicall compact, directly, or indirectly?</item>
+               <item>
+                  <hi>14. Item,</hi>
+                  <note place="margin">Demiſing of Benefices.</note> Whether doth your Miniſter demiſe the profits of his Benefice to any Lay-man above thrée yéeres &amp; is not reſident there, &amp; keepeth no hoſpitality vpon his Benefice, being of ſufficient value?</item>
+               <item>
+                  <hi>15. Item,</hi>
+                  <note place="margin">Conferring with Recuſants.</note> Whether hath he, being learned &amp; ſuffici<g ref="char:EOLhyphen"/>ent, conferred with the Popiſh Recuſants of his pariſh, endeavouring to reclaime them from their errors, and preſenting them being obſtinate for their recuſancy?</item>
+               <item>
+                  <hi>16. Item,</hi> hath your Miniſter or any other Preacher,<note place="margin">Preaching in private houſes.</note>made any Sermon, adminiſtred the Sacraments, or churched women in any private houſes, otherwiſe than is by law allowed?</item>
+               <item>
+                  <hi>17. Item,</hi>
+                  <note place="margin">Curates not licenced, and Lay-men do<g ref="char:EOLhyphen"/>ing the offices of a Miniſter.</note> What Curates or Preachers doe read Prayers or adminiſter the Sacrament in your Pariſh, without lawfull licence? or doth any Lay man, not having holy orders, preſume to read publique Prayers in the Church?</item>
+               <item>
+                  <hi>18. Item,</hi>
+                  <note place="margin">Miniſters for<g ref="char:EOLhyphen"/>ſaking their calling.</note> Whether is your miniſter ſtudious in the holy Scripture, &amp; abſtaineth from mechanicall trads, or labour not befitting his function, &amp; from apparell unſeemely for his calling, and from gaming, ſwearing, and drunkenneſſe, or ſuch notorious crimes: or is there any in your Pariſh, who have béene admitted into ho<g ref="char:EOLhyphen"/>ly Ordérs either Deacon or Miniſter, doth relinquiſh or forſake his calling, and liveth in the courſe of his life as a Layman?</item>
+            </list>
+            <list>
+               <pb facs="tcp:135206:6"/>
+               <head>Articles concerning Marriage.</head>
+               <item>
+                  <hi>FIrſt,</hi>
+                  <note place="margin">Marriage with<g ref="char:EOLhyphen"/>in Leviticall degree.</note> Whether be there any in yuur Pariſh that have married within the degrées of affinity or con<g ref="char:EOLhyphen"/>ſanguinity, by the Law of God forbidden? if any, what bée they?</item>
+               <item>
+                  <hi>2.</hi>
+                  <note place="margin">Private marri<g ref="char:EOLhyphen"/>age, and with<g ref="char:EOLhyphen"/>out conſent of Parents.</note> 
+                  <hi>Item,</hi> Whether have any béen married ſecretly in private houſes, or without their parents or governors conſent ſignified, being under the age of <hi>12.</hi> yéeres?</item>
+               <item>
+                  <hi>3.</hi>
+                  <note place="margin">Marryed per<g ref="char:EOLhyphen"/>ſons living apart.</note> 
+                  <hi>Item,</hi> Whether do any perſons lawfully married, live aſunder unlawfully: and in whom is the default?</item>
+               <item>
+                  <hi>4.</hi>
+                  <note place="margin">Marriage with<g ref="char:EOLhyphen"/>out banes or licence.</note> 
+                  <hi>Item,</hi> Whether any perſons (banes being not thrice publiſhed in the Church) have béene married without licence; who were preſent at ſuch marriages, and what Miniſter married them?</item>
+               <item>
+                  <hi>5.</hi>
+                  <note place="margin">Perſons marri<g ref="char:EOLhyphen"/>ed out of their pariſhes.</note> 
+                  <hi>Item,</hi> Whether any perſons by licence or without have béen married in your Pariſh Church, neither of them at that time dwelling in your Towne?</item>
+               <item>
+                  <hi>6.</hi>
+                  <note place="margin">Recuſants marriage.</note> 
+                  <hi>Item,</hi> What Popiſh Recuſants or their children have béene married in your Pariſh, in what ſort was that matrimony ſolemnized, when and by whom?</item>
+            </list>
+            <list>
+               <head>Articles concerning Church-wardens.</head>
+               <item>
+                  <hi>FIrſt,</hi>
+                  <note place="margin">Election of Church-war<g ref="char:EOLhyphen"/>dens.</note> Whether be the Church-wardens choſen by the Miniſter and Pariſhoners, and whether hath any taken him to be Church-warden, being not ſo choſen: or hath any continued above one yéere in his office without a new choice?</item>
+               <item>
+                  <hi>2.</hi>
+                  <note place="margin">Church-war<g ref="char:EOLhyphen"/>dens due ac<g ref="char:EOLhyphen"/>compt.</note> 
+                  <hi>Item,</hi> Whether have any Church-wardens detai<g ref="char:EOLhyphen"/>ned any of the Church goods, &amp; not made a juſt accompt of what they have received and expended?</item>
+               <item>
+                  <hi>3.</hi>
+                  <note place="margin">Church-war<g ref="char:EOLhyphen"/>dens diligence in the Church.</note> 
+                  <hi>Item,</hi> Have they béen, &amp; are they diligent in their office, to ſée decency kept in the Church, &amp; order in the time of common prayer, and adminiſtration of the Sa<g ref="char:EOLhyphen"/>craments, and that there be no diſturbance: but ſober<g ref="char:EOLhyphen"/>neſſe and quietneſſe in the Church?</item>
+            </list>
+            <list>
+               <pb facs="tcp:135206:6"/>
+               <head>Articles concerning the Pariſhioners.</head>
+               <item>
+                  <hi>FIrſt,</hi>
+                  <note place="margin">Profaning the Lords day.</note> Whether doe any in your Pariſh prophane the Sunday by unlawfull games, drinking or tipling in the time of common Prayer or Sermon, &amp; by working and doing the ordinary workes of their vocation and trades?</item>
+               <item>
+                  <hi>2. Item,</hi>
+                  <note place="margin">Impugning the Rites of the Church.</note> Is there any in your Pariſh that do impugne or ſpeake againſt the Rites and ceremonies of the Church of <hi>England,</hi> or the lawfull uſe of them, &amp; go<g ref="char:EOLhyphen"/>vernment of this Church under his Majeſtie by Arch-Biſhops, Biſhops, and other Eccleſiaſticall officers?</item>
+               <item>
+                  <hi>3. Item,</hi>
+                  <note place="margin">Reverent beha<g ref="char:EOLhyphen"/>viour at divine ſervice.</note> Who in your Pariſh do come to the Sermon only, &amp; not to divine Service, &amp; who do not reverently behave themſelves during the time of divine Service, devoutly knéeling when the general confeſſion of ſins, the Letany, the ten Commandements, and all Praiers and Collects are read, or who doe give themſelves to babling, talking or walking, and are not attentive to heare the Word read and preached?</item>
+               <item>
+                  <hi>4. Item,</hi> Are there any of your Pariſh,<note place="margin">Leaving their own Churches to goe to o<g ref="char:EOLhyphen"/>thers.</note> having a Prea<g ref="char:EOLhyphen"/>cher to their miniſter, that do abſent themſelves from his Sermons, and reſort to other places to hear other Preachers: or doe any in your pariſh communicate, or baptize their children in any other Pariſh?</item>
+               <item>
+                  <hi>5. Item,</hi>
+                  <note place="margin">Opening of ſhops upon the Sunday.</note> Whether doe any in your Pariſh exerciſe any trade or labour, buy or ſell, or keepe open ſhops, or ſet out any wares to be ſold upon Sundaies and holy<g ref="char:EOLhyphen"/>dayes, by themſelves, their ſervants, or apprentices, or have otherwiſe prophaned the ſaid daies?</item>
+               <item>
+                  <hi>6. Item,</hi> Whether is the <hi>5.</hi> of November kept holy,<note place="margin">Keeping holy the fift of No<g ref="char:EOLhyphen"/>vember.</note>and thanksgiving made to God, according to the order ſet forth in that behalfe?</item>
+               <item>
+                  <hi>7. Item,</hi> Are there any in your Pariſh that be,<note place="margin">Adultery, For<g ref="char:EOLhyphen"/>nication, In<g ref="char:EOLhyphen"/>ceſt, &amp;c.</note> or are commonly knowne or reputed to be blaſphemers of Gods holy Name, drunkards, adulterers, fornicators,
+<pb facs="tcp:135206:7"/>inceſtuous perſons, concealors or harbourers of forni<g ref="char:EOLhyphen"/>cators or adulterers: have any béene detected of ſuch notorious crimes, &amp; what penance have they done for the ſame?</item>
+               <item>
+                  <hi>8. Item,</hi> Whether there be any In-kéepers, victua<g ref="char:EOLhyphen"/>lers, or Ale-houſe-kéepers within your pariſh that ad<g ref="char:EOLhyphen"/>mit unto orſuffer in their houſes any perſon at the time of commnn Prayer, or Sermon, upon any Sabbath day or holy day, &amp; who they be that hant ſuch Tauerns, Innes, or tipling houſes at prayer time?</item>
+               <item>
+                  <hi>9. Item,</hi> Whether any markets or ſelling of any meat, or other wares be ſuffered or uſed in your Church yard, or néere the ſame upon the Sabbath day: and whether any butchers, packmen, pedlers, or any mer<g ref="char:EOLhyphen"/>cers or other tradeſ-men within your pariſh, open their ſhops, or make any common or open ſale of their ſtuffe upon Sabbath dayes and holy dayes?</item>
+               <item>
+                  <hi>10. Item,</hi> What Recuſant Papiſts are there in your Pariſh, and whether do they or any of them kéepe any Schoole-maſter in their houſe, which commeth not to Church to heare divine Service, and receive the holy Communion: what is his name, and how long hath he taught?</item>
+               <item>
+                  <hi>11. Item,</hi> Whether hath your Miniſter or any other of your Pariſhioners béen at any ſchiſmaticall conven<g ref="char:EOLhyphen"/>ticles in any private houſe or houſes within your Pa<g ref="char:EOLhyphen"/>riſh, and there have conferred about any private orders for prayers, preaching or expounding the Scriptures contrary to the book of common Prayers and the laws eſtabliſhed in that behalfe? Or whether any lay men have then taken upon them to expound the Scriptures or preach? if ſo, you ſhall preſent them all.</item>
+            </list>
+            <list>
+               <head>Articles concerning Schoolemaſtees, Phyſitians, and Chirurgions, and Pariſh-clarkes.</head>
+               <item>
+                  <hi>FIrſt,</hi> is there any Schoole-maſter in your Pariſh, that teacheth publikly or privately, not licenced by
+<pb facs="tcp:135206:7"/>the Ordinary? doth he teach any Papiſt or Sectaries children that come-not to Church? And doth he inſtruct all his Schollars to learne the ſhort catechiſme by Law eſtabliſhed, contained in the book of common Prayer? Is he a Graduate and ſufficient to teach?</item>
+               <item>
+                  <hi>2. Item,</hi>
+                  <note place="margin">Phyſicians not licenſed.</note> What Phyſitian or Chirurgion is in your pariſh unlicenſed, and being not a Doctor of Phiſick in either of the Vniverſities, doth practice Phiſick? And what ignorant perſons have left their trade, and taken upon them to profeſſe Phiſick or Chirurgery, &amp; who bée they that ſo abuſe the people? and doe any in your pa<g ref="char:EOLhyphen"/>riſh take upon them to heale and cure men, or cattell, by charmes, ſpels, witchcraft, or any other unlawfull wayes or meanes?</item>
+               <item>
+                  <hi>3. Item,</hi> Have you a fit pariſh clarke,<note place="margin">Pariſh clark.</note> aged twenty yéeres at leaſt, of honeſt life, able to read &amp; write? are his and the Sextons wages paid without fraud: if not, then whoſe default is it? by whom is he choſen? Is he diligent in his office, &amp; ſerviceable to the Miniſter? doth he meddle with any thing above his office? doth he keepe the Church cleane, the doores locked? Is a<g ref="char:EOLhyphen"/>ny thing loſt or ſpoiled by his default, and doth he ex<g ref="char:EOLhyphen"/>ecute his office duely?</item>
+            </list>
+            <list>
+               <head>Articles concerning Eccleſiaſticall offices.</head>
+               <item>
+                  <hi>FIrſt,</hi>
+                  <note place="margin">Exceſlive fees.</note> Whether be there any Eccleſiaſticall Offi<g ref="char:EOLhyphen"/>cers that exerciſe Eccleſiaſticall juriſdiction with<g ref="char:EOLhyphen"/>in this Dioceſſe, that take and receive, or exact any ex<g ref="char:EOLhyphen"/>traordinary fées for any cauſe? whether have your Churchwardens and Queſtment concealed any abuſes or offences puniſhable in the Eccleſiaſticall Court: &amp; whether ſuch offences being preſented, are ſuppreſſed and unpuniſhed?</item>
+               <item>
+                  <hi>2. Item,</hi>
+                  <note place="margin">Table of fees in Court.</note> Whether is there not a table of fées in the Court of the conſiſtory, allowed and ſubſcribed by the Iudge and Regiſter of the Court of Conſiſtory, <hi>Anno
+<pb facs="tcp:135206:8"/>Dom. 1597.</hi> and the ſame every Court day hung up in ſome publike place of the Court and Regiſtry?</item>
+               <item>
+                  <hi>3.</hi>
+                  <note place="margin">Abuſes in Ap<g ref="char:EOLhyphen"/>paritors and Sumners.</note> 
+                  <hi>Item,</hi> Have any Apparators or Sumners, under pretence of authority, cited or ſummoned any perſon unlawfully, or hath taken any reward for the concea<g ref="char:EOLhyphen"/>ling of any offence or ſinne, or the avoiding of puniſh<g ref="char:EOLhyphen"/>ment of the offenders: and who be they that have done ſo? Or doe they take any fees not accuſtomable? Have they threatned any to proſecute them if they have no reward? and do they ſummon any without a citation firſt had?</item>
+            </list>
+            <p>If you know any other default or crime, of Eccle<g ref="char:EOLhyphen"/>ſiaſticall cogniſans, you are to preſent the ſame.</p>
+            <p>
+               <hi>The Miniſter of every Pariſh may joyne in preſentment with the Church-wardens and Side-men; and if they will not preſent, then the Miniſters themſelves (being the perſons that ſhould have the chiefe care for the ſuppreſſing of ſin and impietie in their Pariſhes) may preſent the crimes aforeſaid, and ſuch things as ſhall be thought to require due Reformation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135206:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
